@@ -1,6 +1,6 @@
 11 - Food Order App
 
 Project done with React JS.  
-Focus on
+General practice.
 
-link
+https://11-foodorderapp.netlify.app/
