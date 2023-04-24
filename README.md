@@ -1,6 +1,5 @@
-11 - Food Order App
+5 - Food Order App
 
-Project done with React JS.  
-General practice.
+React JS project.
 
-https://11-foodorderapp.netlify.app/
+https://5-foodorderapp.netlify.app/
